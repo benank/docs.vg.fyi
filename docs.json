@@ -1,7 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "VG",
+  "name": "VG Plugins",
+  "description": "Comprehensive documentation for VG's Hytale plugins. Learn how to install, configure, and customize each plugin with step-by-step guides, API references, and best practices for server owners and developers.",
   "colors": {
     "primary": "#5A2578",
     "light": "#E7AB55",
